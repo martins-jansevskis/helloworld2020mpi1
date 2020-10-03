@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_text">This is the first application from Group</string>
+    <string name="hello_two">Second text</string>
+</resources>
