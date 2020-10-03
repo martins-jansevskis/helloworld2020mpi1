@@ -2,4 +2,18 @@
     <string name="app_name">HelloWorld</string>
     <string name="hello_text">This is the first application from Group</string>
     <string name="hello_two">Second text</string>
+    <string name="activity_2_text">Activity 2 text</string>
+    <string name="back_btn">Back</string>
+    <string name="dialog_title">No.0 Group`s Dialog</string>
+    <string-array name="students_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+    <string-array name="menu">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>
