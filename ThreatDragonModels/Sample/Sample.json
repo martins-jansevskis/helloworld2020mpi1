@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "Martins",
+    "description": "Lorem ipsum"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Martins"
+  }
+}
